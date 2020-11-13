@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Я изучаю git
+=======
+I learn git
+>>>>>>> 16a36232f7e786b3bdc594f9a29ad4859f93b2de
